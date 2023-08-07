@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="XXLChess.Pieces.KnightTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2023-05-13T08:08:26" hostname="Charans-Air" time="0.001">
+  <properties/>
+  <testcase name="testGetAvailableMoves()" classname="XXLChess.Pieces.KnightTest" time="0.001">
+    <failure message="java.lang.NullPointerException" type="java.lang.NullPointerException">java.lang.NullPointerException
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

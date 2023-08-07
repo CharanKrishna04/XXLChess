@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="XXLChess.Pieces.QueenTest" tests="2" skipped="1" failures="0" errors="0" timestamp="2023-05-13T08:08:26" hostname="Charans-Air" time="0.023">
+  <properties/>
+  <testcase name="testGetAvailableMoves()" classname="XXLChess.Pieces.QueenTest" time="0.004"/>
+  <testcase name="testConstructor()" classname="XXLChess.Pieces.QueenTest" time="0.004">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
